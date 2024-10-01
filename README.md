@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - [LeetCode](https://leetcode.com/u/manojpisepatil/)
 -->
-# Hi there 👋  <p > <img src="https://komarev.com/ghpvc/?username=karansasane21&label=Profile%20views&color=0e75b6&style=flat" alt="karansasane21" /> </p>
+# Hi there 👋  <p > <img src="https://komarev.com/ghpvc/?username=Atoleanantha&label=Profile%20views&color=0e75b6&style=flat" alt="Atoleanantha" /> </p>
 
 I'm *Anantha Atole* ,
 
