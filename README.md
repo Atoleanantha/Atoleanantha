@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋  <p > <img src="https://komarev.com/ghpvc/?username=karansasane21&label=Profile%20views&color=0e75b6&style=flat" alt="karansasane21" /> </p>
 
-I'm *Manoj Pise* ,
+I'm *Anantha Atole* ,
 
 - 🔭 Currently working on personal and collaborative projects to enhance my technical skills.
-- 🌱 Learning advanced concepts in Python, Java, C++, and web development technologies.
+- 🌱 Learning advanced concepts in Python, Java, C++, and web development technologies (MERN), Adnroid Technology (Flutter).
 - 👯 Seeking collaboration on open-source projects and innovative tech solutions.
 - 📫 How to reach me: [Email](mailto:atoleanantha03@gmail.com) | [LinkedIn]([https://linkedin.com/in/manojpisepatil](https://www.linkedin.com/in/anantha-atole-91726a255/))
 - ⚡ Fun fact: I enjoy bike riding, traveling, and photography.
