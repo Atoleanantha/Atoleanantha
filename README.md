@@ -23,7 +23,7 @@ I'm *Anantha Atole* ,
 - 🔭 Currently working on personal and collaborative projects to enhance my technical skills.
 - 🌱 Learning advanced concepts in Python, Java, C++, and web development technologies (MERN), Adnroid Technology (Flutter).
 - 👯 Seeking collaboration on open-source projects and innovative tech solutions.
-- 📫 How to reach me: [Email](mailto:atoleanantha03@gmail.com) | [LinkedIn]([https://linkedin.com/in/manojpisepatil](https://www.linkedin.com/in/anantha-atole-91726a255/))
+- 📫 How to reach me: [Email](mailto:atoleanantha03@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/anantha-atole-91726a255/])
 - ⚡ Fun fact: I enjoy bike riding, traveling, and photography.
 - [HackerRank](https://www.hackerrank.com/profile/atoleanantha06)
 
